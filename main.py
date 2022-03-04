@@ -3,7 +3,7 @@
 # * Term:        Fall 2021
 # * Name:       <Paul Neamtu>
 # * Instructor:   Sharon Perry
-# * Project:     Deliverable 2 Parser
+# * Project:     Lexical Analyzer (Scanner), Parser, and Interpreter
 #
 
 #import some useful directories
