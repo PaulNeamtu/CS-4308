@@ -1,0 +1,5 @@
+x = 1
+y = 10
+if x < y then
+	print(2)
+end
